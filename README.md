@@ -1,1 +1,1 @@
-# Snake-Game
+it's a snake game which you guys generaly play in a phone in which snake scores a point and increases its size when it collides the food and the game ends when it collides with a wall or it's body. just create 4 files and copy those codes into respective files and run the snakemain.py file and enjoy the game all the best.
